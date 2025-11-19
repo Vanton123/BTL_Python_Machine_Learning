@@ -1,0 +1,11 @@
+paddle_env/
+__pycache__/
+*.pyd
+*.dll
+paddle_env/
+__pycache__/
+*.pyd
+*.dll
+*.so
+venv/
+.env/
